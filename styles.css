@@ -60,5 +60,7 @@ body{
     display: block;
     width: 28px;
     height: 3px;
-
+    border-radius: 3px;
+    background: var(--dark);
+    margin: 5px auto;
 }
