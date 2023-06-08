@@ -8,3 +8,6 @@
     list-style: none;
     text-decoration: none;
 }
+:root{
+    --red:#d63a25
+}
