@@ -9,7 +9,7 @@
     text-decoration: none;
 }
 :root{
-    --red:#25b3d6;
+    --red:#d63a25;
     --white:#fff;
     --dark:#1e1c2a;
 }
@@ -26,4 +26,7 @@ body{
     width: 100%;
     background:var(--white);
     transition: all 0.5s;
+}
+.navigation .logo {
+    color: var()
 }
