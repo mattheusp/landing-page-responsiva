@@ -13,3 +13,6 @@
     --white:#fff;
     --dark:#1e1c2a;
 }
+body{
+    color: var(--dark)
+}
