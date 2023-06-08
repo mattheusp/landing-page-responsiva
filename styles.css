@@ -30,5 +30,8 @@ body{
 .navigation .logo {
     color: var(--red);
     font-size: 1.7rem;
-    
+    font-weight: 600;
+}
+.logo span{
+    color: var(--dark)
 }
