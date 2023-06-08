@@ -14,5 +14,6 @@
     --dark:#1e1c2a;
 }
 body{
-    color: var(--dark)
+    color: var(--dark);
+    background: var(--white);
 }
