@@ -57,5 +57,8 @@ body{
     cursor: pointer;
 }
 .menu .bar {
-    
+    display: block;
+    width: 28px;
+    height: 3px;
+
 }
