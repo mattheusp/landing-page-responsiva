@@ -33,5 +33,9 @@ body{
     font-weight: 600;
 }
 .logo span{
-    color: var(--dark)
+    color: var(--dark);
+}
+.navigation ul{
+    display: flex;
+    align-items: center;
 }
