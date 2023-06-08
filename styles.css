@@ -18,5 +18,7 @@ body{
     background: var(--white);
 }
 .navigation{
-    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
