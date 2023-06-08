@@ -42,4 +42,7 @@ body{
 }
 .navigation ul li a {
     color: var(--dark);
+    font-size: 17px;
+    font-weight: 500;
+    
 }
