@@ -140,6 +140,9 @@ body {
     .menu.ativo .bar:nth-child(1)(
         transform: translateY(8px) rotate(45deg);
     )
+    .menu.ativo .bar:nth-child(2) {
+        
+    }
     .nav-menu {
         position: fixed;
         right: -100%;        
