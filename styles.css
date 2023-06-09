@@ -168,4 +168,8 @@ body {
     .nav-item {
         margin: 16px 0;
     }
+    /*main*/
+    .home {
+        padding: 100px 2%;
+    }
 }
