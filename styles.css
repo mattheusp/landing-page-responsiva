@@ -137,4 +137,11 @@ body {
     .menu {
         display: block;
     }
+    .nav-menu {
+        position: fixed;
+        right: -100%;        
+        top: 70px;
+        width: 100%;
+        
+    }
 }
