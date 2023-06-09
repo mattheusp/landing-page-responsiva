@@ -138,7 +138,7 @@ body {
         display: block;
     }
     .menu.ativo .bar:nth-child(1)(
-        transform: translateY;
+        transform: translateY(8px) rotate(45deg);
     )
     .nav-menu {
         position: fixed;
