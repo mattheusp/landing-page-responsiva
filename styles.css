@@ -139,9 +139,11 @@ body {
         display: block;
     }
 
-    .menu.ativo .bar:nth-child(1)(transform: translateY(8px) rotate(45deg);
+    .menu.ativo .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+    }
 
-    ) .menu.ativo .bar:nth-child(2) {
+    .menu.ativo .bar:nth-child(2) {
         opacity: 0;
     }
 
