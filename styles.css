@@ -186,5 +186,7 @@ body {
     .home p{
         font-size: 15px;
     }
-    
+    .home-img{
+        width: 125%;
+    }
 }
