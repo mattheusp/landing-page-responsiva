@@ -115,5 +115,7 @@ body {
 
 .home-btn {
     padding: 15px 45px;
-    
+    background: var(--red);
+    color: var(white);
+    border-radius: 10px;
 }
