@@ -137,6 +137,9 @@ body {
     .menu {
         display: block;
     }
+    .menu.ativo .bar:nth-child(1)(
+        transform: translateY;
+    )
     .nav-menu {
         position: fixed;
         right: -100%;        
