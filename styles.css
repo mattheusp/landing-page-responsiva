@@ -181,5 +181,10 @@ body {
     }
     .home .text-h1{
         font-size: 2.5rem;
+        line-height: 3rem;
     }
+    .home p{
+        font-size: 15px;
+    }
+    
 }
