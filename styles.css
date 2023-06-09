@@ -65,3 +65,7 @@ body{
     margin: 5px auto;
     transition: all 0.3s;
 }
+.menu .bar:nth-child(1),
+.menu .bar:nth-child(3) {
+    background: var(--red);
+}
