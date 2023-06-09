@@ -118,4 +118,7 @@ body {
     background: var(--red);
     color: var(white);
     border-radius: 10px;
+    font-weight: 500;
+    transition: all 0.5s;
+    
 }
