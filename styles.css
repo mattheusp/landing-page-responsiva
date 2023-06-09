@@ -109,4 +109,6 @@ body {
     line-height: 4rem;
 }
 
-.home-text p {}
+.home-text p {
+    margin-bottom: 4rem;
+}
