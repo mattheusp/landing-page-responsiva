@@ -134,4 +134,7 @@ body {
     .navigation {
         padding: 18px 20px;
     }
+    .menu {
+        display: block;
+    }
 }
