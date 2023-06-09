@@ -70,3 +70,7 @@ body{
 .menu .bar:nth-child(3) {
     background: var(--red);
 }
+
+.html {
+    width: 100%;
+}
