@@ -112,3 +112,8 @@ body {
 .home-text p {
     margin-bottom: 4rem;
 }
+
+.home-btn {
+    padding: 15px 45px;
+    
+}
